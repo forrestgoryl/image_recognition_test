@@ -1,0 +1,111 @@
+results with 128 neurons in 1 hidden layer:
+
+test acc @ 0 epochs: 0.10649999976158142
+test acc @ 5 epochs: 0.8755000233650208
+test acc @ 10 epochs: 0.8834999799728394
+test acc @ 15 epochs: 0.8863000273704529
+test acc @ 20 epochs: 0.8855999708175659
+test acc @ 25 epochs: 0.8913000226020813
+test acc @ 30 epochs: 0.8884999752044678
+test acc @ 35 epochs: 0.890999972820282
+test acc @ 40 epochs: 0.8794000148773193
+test acc @ 45 epochs: 0.8788999915122986
+test acc @ 50 epochs: 0.8878999948501587
+test acc @ 55 epochs: 0.8826000094413757
+test acc @ 60 epochs: 0.8898000121116638
+test acc @ 65 epochs: 0.8838000297546387
+test acc @ 70 epochs: 0.8862000107765198
+test acc @ 75 epochs: 0.8867999911308289
+test acc @ 80 epochs: 0.88919997215271
+test acc @ 85 epochs: 0.8828999996185303
+test acc @ 90 epochs: 0.8840000033378601
+test acc @ 95 epochs: 0.8816999793052673
+
+results with 256 neurons in 1 hidden layer:
+
+test acc @ 5 epochs: 0.8737999796867371
+test acc @ 10 epochs: 0.8881999850273132
+test acc @ 15 epochs: 0.8906000256538391
+test acc @ 20 epochs: 0.887499988079071
+test acc @ 25 epochs: 0.8876000046730042
+
+results with 50 neurons in 2 hidden layer(s):
+
+test acc @ 5 epochs: 0.8751999735832214
+test acc @ 10 epochs: 0.8756999969482422
+test acc @ 15 epochs: 0.8812999725341797
+test acc @ 20 epochs: 0.8859999775886536
+test acc @ 25 epochs: 0.8779000043869019
+
+results with 50 neurons in 3 hidden layer(s):
+
+test acc @ 5 epochs: 0.870199978351593
+test acc @ 10 epochs: 0.8774999976158142
+test acc @ 15 epochs: 0.8779000043869019
+test acc @ 20 epochs: 0.8730999827384949
+test acc @ 25 epochs: 0.8795999884605408
+
+results with [5] neurons in 1 hidden layer(s):
+
+test acc @ 5 epochs: 0.8253999948501587
+test acc @ 10 epochs: 0.8219000101089478
+
+results with [4] neurons in 1 hidden layer(s):
+
+test acc @ 5 epochs: 0.8047999739646912
+test acc @ 10 epochs: 0.6557000279426575
+
+results with [3] neurons in 1 hidden layer(s):
+
+test acc @ 5 epochs: 0.6146000027656555
+test acc @ 10 epochs: 0.7742999792098999
+
+results with [2] neurons in 1 hidden layer(s):
+
+test acc @ 5 epochs: 0.3546999990940094
+test acc @ 10 epochs: 0.7142999768257141
+
+results with [100, 100, 50] neurons in 3 hidden layer(s):
+
+test acc @ 5 epochs: 0.8671000003814697
+test acc @ 10 epochs: 0.8840000033378601
+
+results with [10] neurons in 1 hidden layer(s):
+
+test acc @ 5 epochs: 0.850600004196167
+test acc @ 10 epochs: 0.8547999858856201
+
+results with [1000] neurons in 1 hidden layer(s):
+
+test acc @ 5 epochs: 0.8845000267028809
+test acc @ 10 epochs: 0.8831999897956848
+
+results with [128] neurons in 1 hidden layer(s) with ['sigmoid'] activation function(s):
+
+test acc @ 5 epochs: 0.866599977016449
+test acc @ 10 epochs: 0.8773999810218811
+
+results with [15, 15] neurons in 2 hidden layer(s) with ['sigmoid', 'sigmoid'] activation function(s):
+
+test acc @ 5 epochs: 0.8442999720573425
+test acc @ 10 epochs: 0.8575000166893005
+
+results with [15, 15] neurons in 2 hidden layer(s) with ['relu', 'relu'] activation function(s):
+
+test acc @ 5 epochs: 0.8568999767303467
+test acc @ 10 epochs: 0.8618000149726868
+
+results with [128] neurons in 1 hidden layer(s) with ['relu'] activation function(s):
+
+test acc @ 5 epochs: 0.8743000030517578
+test acc @ 10 epochs: 0.871999979019165
+
+results with [50, 50, 50, 50, 50] neurons in 5 hidden layer(s)
+
+test acc @ 5 epochs: 0.8730000257492065
+test acc @ 10 epochs: 0.8787999749183655
+
+results with [150, 150, 150, 150, 150] neurons in 5 hidden layer(s)
+
+test acc @ 5 epochs: 0.8698999881744385
+test acc @ 10 epochs: 0.875
